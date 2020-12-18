@@ -1,5 +1,5 @@
 # Pokemon Battle Analysis
-In this application, pokemon.csv dataset with 800 Pokemon features and combats.csv
+In this project, pokemon.csv dataset with 800 Pokemon features and combats.csv
 dataset containing 50 thousand battle results of these Pokemons were used. Pokemon
 dataset contains Pokemon names, type 1 and type 2, hp, attack, defense, sp. Attack, sp.
 defense, and speed information. And in the light of this information, Pokemons that are
